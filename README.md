@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [twitter @fskelly](https://twitter.com/fskelly) or [LinkedIn](https://www.linkedin.com/in/fletcherkelly/)
 
+[![Fletcher's GitHub stats](https://github-readme-stats.vercel.app/api?username=fskelly)](https://github.com/fskelly/github-readme-stats)
+
+
 <!---
 fskelly/fskelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
