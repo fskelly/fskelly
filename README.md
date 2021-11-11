@@ -6,7 +6,9 @@
 
 [![Fletcher's GitHub stats](https://github-readme-stats.vercel.app/api?username=fskelly)](https://github.com/fskelly/github-readme-stats)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fskelly&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fskell)
+
+<img src=https://komarev.com/ghpvc/?username = fskelly/>
 
 <!---
 fskelly/fskelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
