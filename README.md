@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [twitter @fskelly](https://twitter.com/fskelly) or [LinkedIn](https://www.linkedin.com/in/fletcherkelly/)
 
-[![Fletcher's GitHub stats](https://github-readme-stats.vercel.app/api?username=fskelly&theme=dark&show_icons=true)]
+[![Fletcher's GitHub stats](https://github-readme-stats.vercel.app/api?username=fskelly&show_icons=true)]
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fskelly)
 
