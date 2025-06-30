@@ -9,8 +9,8 @@
 
 | Website | Deploy Status | Maintained |
 |---|---|---|
-| [me.fskelly.com](https://me.fskelly.com) | ![Website Build and Deploy](https://github.com/fskelly/me.fskelly.com/actions/workflows/hugo.yaml/badge.svg)|![Website maintained](https://img.shields.io/maintenance/yes/2024?style=plastic)
-| [cloud.fskelly.com](https://cloud.fskelly.com)| ![Deploy To GitHub Pages](https://github.com/fskelly/cloud.fskelly.com/actions/workflows/hugo.yaml/badge.svg) |![Website maintained](https://img.shields.io/maintenance/yes/2024?style=plastic)
+| [me.fskelly.com](https://me.fskelly.com) | ![Website Build and Deploy](https://github.com/fskelly/me.fskelly.com/actions/workflows/hugo.yaml/badge.svg)|![Website maintained](https://img.shields.io/maintenance/yes/2025?style=plastic)
+| [cloud.fskelly.com](https://cloud.fskelly.com)| ![Deploy To GitHub Pages](https://github.com/fskelly/cloud.fskelly.com/actions/workflows/hugo.yaml/badge.svg) |![Website maintained](https://img.shields.io/maintenance/yes/2025?style=plastic)
 
 <!---
 fskelly/fskelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
